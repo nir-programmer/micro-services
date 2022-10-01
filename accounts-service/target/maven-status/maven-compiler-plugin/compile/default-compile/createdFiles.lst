@@ -1,0 +1,7 @@
+org/nir/accounts/model/Customer.class
+org/nir/accounts/AccountsApplication.class
+org/nir/accounts/model/Accounts.class
+org/nir/accounts/controller/AccountsController.class
+org/nir/accounts/model/Properties.class
+org/nir/accounts/config/AccountsServiceConfig.class
+org/nir/accounts/repository/AccountsRepository.class
